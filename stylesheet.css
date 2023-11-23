@@ -3,3 +3,34 @@
     color: rgb(50, 50, 50);
     background-color: rgb(229, 226, 226);
 }
+.row{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    text-align: center;
+}
+
+button{
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 12px 24px;
+    border: 0;
+    color: #000021;
+    background: #1d7ce9;
+    line-height: 1.15;
+    font-size: 16px;
+
+
+}
+button:hover {
+    transition: all .1s ease;
+    box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1d7ce9;
+}
+.hidden{
+    display: none;
+}
