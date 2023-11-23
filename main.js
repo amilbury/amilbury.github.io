@@ -23,7 +23,9 @@ function experience(){
     btn.classList.remove("hidden");    
 }
 
-
+function test(){
+    
+}
 function hideAll(){
     let abt = document.querySelector("#abt");
     abt.classList.add("hidden");
