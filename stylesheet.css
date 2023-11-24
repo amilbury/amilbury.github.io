@@ -32,7 +32,7 @@ p,li{
     transform: translate(-50%, -50%);
     padding: 10px;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .row3{
     position: absolute;
@@ -41,7 +41,7 @@ p,li{
     transform: translate(-50%, -50%);
     padding: 10px;
     text-align: center;
-    margin-top: 240px;
+    margin-top: 150px;
 }
 .row4{
     position: absolute;
@@ -50,11 +50,11 @@ p,li{
     transform: translate(-50%, -50%);
     padding: 10px;
     text-align: center;
-    margin-top: 0px;
+    margin-top: -50px;
 }
 
 .test{
-    
+
 }
 .hidden{
     display: none;
